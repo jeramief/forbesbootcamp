@@ -1,7 +1,8 @@
 # Forbes Bootcamp
 Forbes Bootcamp is a website built to be a template and/or to practice.
 
-##Demo
+#Demo
+
 https://jeramief.github.io/forbesbootcamp
 
 ##How It's Made:
